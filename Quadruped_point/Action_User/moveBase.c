@@ -217,7 +217,7 @@ void walk_BLUE(void)
 
 /**
 
-  * @brief  速度规划
+  * @brief  速度规划，改变程序周期改变速度
   * @note
   * @param  None
   * @retval None
