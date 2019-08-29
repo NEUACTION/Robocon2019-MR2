@@ -1,0 +1,15 @@
+.\obj\elmo.o: ..\Action_User\elmo.c
+.\obj\elmo.o: ..\Action_User\elmo.h
+.\obj\elmo.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\elmo.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\elmo.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\elmo.o: ..\Libraries\CMSIS\core_cmInstr.h
+.\obj\elmo.o: ..\Libraries\CMSIS\cmsis_armcc.h
+.\obj\elmo.o: ..\Libraries\CMSIS\core_cmFunc.h
+.\obj\elmo.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\elmo.o: ..\Action_User\can.h
+.\obj\elmo.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h
+.\obj\elmo.o: ..\Action_User\usart.h
+.\obj\elmo.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\obj\elmo.o: ..\Action_User\gpio.h
+.\obj\elmo.o: ..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
